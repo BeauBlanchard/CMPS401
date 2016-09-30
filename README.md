@@ -1,2 +1,2 @@
 # CMPS401
-Pac-Man Project
+Pao-wer Pac Project
